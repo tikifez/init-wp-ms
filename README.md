@@ -1,5 +1,5 @@
 # init-wp-ms
-A shell script which automates a multisite WordPress install. 
+Shell script to (nearly) automate install of a single WordPress blog.
 
 WordPress is pulled from the WordPress github repo and core is installed to it's own directory.
 
