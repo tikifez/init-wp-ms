@@ -117,6 +117,7 @@ $multisite_config" wp-config.php
 
 echo "** Creating .htaccess"
 echo "..."
+cd wordpress
 cat <<EOF > .htaccess
 RewriteEngine On
 RewriteBase /$wp_dir/wordpress/
